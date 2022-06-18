@@ -7,7 +7,7 @@ This app is being produced according to the MVP Milestones in this account's [Bl
 
 #### Commit History
 
-We are using [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/) notation to mark our progress, and the best way of seeing the progress is to look at the commit lists, either here in GitHub, or if you have pulled the repo, merely by going ```gitlog```
+We are using [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/) notation to mark our progress, and the best way of seeing the progress is to look at the commit lists, either here in GitHub, or if you have pulled the repo, merely by going ```git log [enter]``` on the command line.
 
 For a quick peek, we've copied the major commit messages here, latest at the top:
 
