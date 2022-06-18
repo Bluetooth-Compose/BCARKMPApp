@@ -1,0 +1,3 @@
+[submodule "BCARM-Unity"]
+	path = BCARM-Unity
+	url = https://github.com/Bluetooth-Compose/BCARM-Unity.git
