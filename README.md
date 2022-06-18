@@ -11,6 +11,6 @@ We are using [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0
 
 For a quick peek, we've copied the major commit messages here, latest at the top:
 
-- chore(bcarm-unity): add bcarm-unity repo as root level submodule [on new branch task-001-add-bcarm-unity-as-submodule]
-- chore(framework): converted from xml activity ui to jetpack compose, using default compose activity project as a guide
-- chore(app): created default kotlin multiplatform app using android studio
+- chore(bcarm-unity): add bcarm-unity repo as root level submodule [branch task-001-add-bcarm-unity-as-submodule]
+- chore(framework): converted from xml activity ui to jetpack compose, using default compose activity project as a guide [branch: main]
+- chore(app): created default kotlin multiplatform app using android studio [branch: main]
